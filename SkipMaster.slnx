@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="SkipMaster.Contracts/SkipMaster.Contracts.csproj" />
+  <Project Path="SkipMaster.Strategy/SkipMaster.Strategy.csproj" />
+  <Project Path="SkipMaster.Core/SkipMaster.Core.csproj" />
+  <Project Path="SkipMaster.ConsoleApp/SkipMaster.ConsoleApp.csproj" />
+  <Project Path="SkipMaster.HostApp/SkipMaster.HostApp.csproj" />
+  <Project Path="SkipMaster.Tests/SkipMaster.Tests.csproj" />
+</Solution>
